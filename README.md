@@ -2,8 +2,7 @@
 <div id="header" align="center">
   <h1>Hi there 👋, I'm Nastya</h1>
 
-  <h2>Languages and tools</h2>
-
+  <h3>Languages and tools</h3>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
   title="js" width="40" height="40"/>&nbsp;
           
